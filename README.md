@@ -1,5 +1,7 @@
 # Art and Physics at the Museo del Prado
 ## Supplementary material and Python notebooks
+<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/c0283c27-09a9-4aa0-b89a-d330be333293" />
+
 
 This repository contains the supplementary computational and GeoGebra materials for the article:
 
