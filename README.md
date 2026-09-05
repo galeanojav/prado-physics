@@ -3,7 +3,7 @@
 
 This repository contains the supplementary computational and GeoGebra materials for the article:
 
-> Galeano J R (2026) **Art and Physics at the Museo del Prado: A Walk Through Science Hidden in Masterpieces**. *European Journal of Physics*. Manuscript reference: EJP-110803.
+> Galeano J R (2026) **Art and Physics at the Museo del Prado: A Walk Through Science Hidden in Masterpieces**. In review at *European Journal of Physics*.
 
 ---
 
